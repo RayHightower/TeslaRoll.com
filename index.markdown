@@ -2,12 +2,10 @@
 layout: default
 ---
 <center>
+<h1>TheLeague.LA</h1>
 <p>
 &nbsp;<br/>
-&nbsp;<br/>
-<b>TheLeague.LA</b>
-&nbsp;<br/>
-Los Angeles, CA<br/>
+Los Angeles, California<br/>
 USA
 </p>
 </center>
