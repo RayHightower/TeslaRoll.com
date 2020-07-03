@@ -7,6 +7,6 @@ layout: default
 Los Angeles, California<br/>
 USA
 <br/>&nbsp;<br/>
-Or do you prefer <a href="http://RollTesla.com">RollTesla.com</a>
+Or... do you prefer <a href="http://RollTesla.com">RollTesla.com</a>?
 </p>
 </center>
